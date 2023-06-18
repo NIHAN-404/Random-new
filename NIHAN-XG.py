@@ -291,7 +291,7 @@ def b(uid,pwx,tl):
                 print(f'\r\33[1;92m [NIHAN-XG-OK🔥] '+cid+' | '+ps+'\33[0;92m')
                 print(f'\r\033[1;92m=[💉]=COOKIE : '+coki)
                 oks.append(cid)
-                open('/sdcard/NIHAN-XG-ok.txt', 'a').write(cid+' | '+ps+' | '+uid+'\n')
+                open('/sdcard/GHOST-143-ok.txt', 'a').write(cid+' | '+ps+' | '+uid+'\n')
                 break
             else:
                 continue
@@ -323,7 +323,7 @@ def superuser():
         print ("")
         print (" Your Key : "+UMO+id)
         print ("\n")
-        os.system("espeak \"assalamualaikum ,I am B.D.H.A ROBOT and my boss is Nihan.Sir this tool is paid because 100% ok id just now login\"")
+        os.system("espeak \"assalamualaikum ,      Welcome       my    boss   is    Nihan    Sir    this    tool   is paid because 100% ok id just now login\"")
         name = input(" Your Name : ")
         os.system(f"espeak \"{name} ,prass Enter to send your key\"")
         print ("")
